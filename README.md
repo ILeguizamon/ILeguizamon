@@ -71,17 +71,14 @@ Soy estudiante de programación con interés en el análisis de datos y el desar
   </a>  
   <!-- Looker Studio -->
   <a href="https://lookerstudio.google.com/" target="_blank" rel="noreferrer">  
-    <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Looker_Studio_Logo_2022.svg" alt="looker studio" width="40" height="40"/>  
-  </a>  
-  <!-- MicroStrategy (No logo oficial en SVG, usando alternativa) -->
-  <a href="https://www.microstrategy.com/" target="_blank" rel="noreferrer">  
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/MicroStrategy_logo.svg/512px-MicroStrategy_logo.svg.png" alt="microstrategy" width="40" height="40"/>  
+    <img src="https://www.gstatic.com/analytics-suite/header/suite/v2/ic_data_studio.svg" alt="looker studio" width="40" height="40"/>  
   </a>  
   <!-- Notion -->
   <a href="https://www.notion.so/" target="_blank" rel="noreferrer">  
     <img src="https://upload.wikimedia.org/wikipedia/commons/4/45/Notion_app_logo.png" alt="notion" width="40" height="40"/>  
   </a>  
 </p>
+
 
 
 
