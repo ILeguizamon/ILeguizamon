@@ -10,7 +10,7 @@ Soy estudiante de programación con interés en el análisis de datos y el desar
 <a href="https://www.linkedin.com/in/ivan-leguizamon29/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ujjwal-bhatt-b256271a3" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">📌 Lenguajes de Programación:</h3>
+<h3 align="left">Lenguajes:</h3>
 <p align="left">  
   <a href="https://www.python.org/" target="_blank" rel="noreferrer">  
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>  
@@ -23,23 +23,23 @@ Soy estudiante de programación con interés en el análisis de datos y el desar
   </a>  
   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">  
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>  
-  </a>  
+  </a> 
+  <a href="https://www.w3schools.com/sql/" target="_blank" rel="noreferrer">  
+    <img src="https://www.svgrepo.com/show/331760/sql-database-generic.svg" alt="sql" width="40" height="40"/>  
+  </a> 
 </p>
 
-<h3 align="left">📌 Bases de Datos:</h3>
+<h3 align="left">Bases de Datos:</h3>
 <p align="left">  
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">  
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>  
   </a>  
   <a href="https://www.postgresql.org" target="_blank" rel="noreferrer">  
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/>  
-  </a>  
-  <a href="https://www.w3schools.com/sql/" target="_blank" rel="noreferrer">  
-    <img src="https://www.svgrepo.com/show/331760/sql-database-generic.svg" alt="sql" width="40" height="40"/>  
-  </a>  
+  </a>   
 </p>
 
-<h3 align="left">📌 Análisis de Datos:</h3>
+<h3 align="left">Análisis de Datos:</h3>
 <p align="left">  
   <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer">  
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/>  
@@ -58,7 +58,7 @@ Soy estudiante de programación con interés en el análisis de datos y el desar
   </a>  
 </p>
 
-<h3 align="left">📌 Frameworks y Librerías:</h3>
+<h3 align="left">Frameworks y Librerías:</h3>
 <p align="left">  
   <a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer">  
     <img src="https://cdn.worldvectorlogo.com/logos/fastapi.svg" alt="fastapi" width="40" height="40"/>  
@@ -68,7 +68,7 @@ Soy estudiante de programación con interés en el análisis de datos y el desar
   </a>  
 </p>
 
-<h3 align="left">📌 Herramientas:</h3>
+<h3 align="left">Herramientas:</h3>
 <p align="left">  
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer">  
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>  
