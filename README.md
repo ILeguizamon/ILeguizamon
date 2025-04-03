@@ -10,7 +10,7 @@
 
 ---
 
-## 📞 Conectemos  
+📞 Conectemos  
 <p align="center">
   <a href="https://www.linkedin.com/in/ivan-leguizamon29/" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" width="40" height="40"/>
@@ -19,7 +19,7 @@
 
 ---
 
-## 🖥️ Lenguajes  
+🖥️ Lenguajes  
 <p align="center">
   <a href="https://www.python.org/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="50" height="50"/>
@@ -40,7 +40,7 @@
 
 ---
 
-## 🗄️ Bases de Datos  
+🗄️ Bases de Datos  
 <p align="center">
   <a href="https://www.mysql.com/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="50" height="50"/>
@@ -52,7 +52,7 @@
 
 ---
 
-## 📊 Análisis de Datos  
+📊 Análisis de Datos  
 <p align="center">
   <a href="https://pandas.pydata.org/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="50" height="50"/>
@@ -76,7 +76,7 @@
 
 ---
 
-## ⚡ Frameworks y Librerías  
+⚡ Frameworks y Librerías  
 <p align="center">
   <a href="https://fastapi.tiangolo.com/" target="_blank">
     <img src="https://cdn.worldvectorlogo.com/logos/fastapi.svg" width="50" height="50"/>
@@ -88,7 +88,7 @@
 
 ---
 
-## 🛠️ Herramientas  
+🛠️ Herramientas  
 <p align="center">
   <a href="https://git-scm.com/" target="_blank">
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="50" height="50"/>
