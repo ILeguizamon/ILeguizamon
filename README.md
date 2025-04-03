@@ -19,84 +19,43 @@
 
 ---
 
-🖥️ Lenguajes  
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="25"><b> Skills</b>
+
 <p align="center">
-  <a href="https://www.python.org/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="50" height="50"/>
-  </a>
-  <a href="https://www.java.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="50" height="50"/>
-  </a>
-  <a href="https://www.w3.org/html/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="50" height="50"/>
-  </a>
-  <a href="https://www.w3schools.com/css/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="50" height="50"/>
-  </a>
-  <a href="https://www.w3schools.com/sql/" target="_blank">
-    <img src="https://www.svgrepo.com/show/331760/sql-database-generic.svg" width="50" height="50"/>
-  </a>
+
+- 📋 Lenguajes:
+  
+  ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+  ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+  ![SQL](https://custom-icon-badges.herokuapp.com/badge/SQL-025E8C.svg?logo=database&logoColor=white)
+  ![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+  ![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+
+- 🎨 Frameworks y Librerías:
+
+  ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+  ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+  ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+  ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+  ![Matplotlib](https://img.shields.io/badge/Matplotlib-008080?style=for-the-badge&logo=matplotlib&logoColor=white)
+
+- 💾 Bases de Datos:
+
+  ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+  ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+
+- 📊 Análisis de Datos:
+
+  ![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+  ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black)
+  ![Looker Studio](https://img.shields.io/badge/Looker%20Studio-4285F4?style=for-the-badge&logo=google&logoColor=white)
+
+- 🎛️ Herramientas y Aplicaciones:
+
+  ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+  ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+  ![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
+  ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
+  ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
 </p>
-
----
-
-🗄️ Bases de Datos  
-<p align="center">
-  <a href="https://www.mysql.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="50" height="50"/>
-  </a>
-  <a href="https://www.postgresql.org" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" width="50" height="50"/>
-  </a>   
-</p>
-
----
-
-📊 Análisis de Datos  
-<p align="center">
-  <a href="https://pandas.pydata.org/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="50" height="50"/>
-  </a>
-  <a href="https://numpy.org/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" width="50" height="50"/>
-  </a>
-  <a href="https://matplotlib.org/" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" width="50" height="50"/>
-  </a>
-  <a href="https://powerbi.microsoft.com/" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/microsoft_powerbi/microsoft_powerbi-icon.svg" width="50" height="50"/>
-  </a>
-  <a href="https://lookerstudio.google.com/" target="_blank">
-    <img src="https://www.gstatic.com/analytics-suite/header/suite/v2/ic_data_studio.svg" width="50" height="50"/>
-  </a>
-  <a href="https://www.microsoft.com/en-us/microsoft-365/excel" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/7/73/Microsoft_Excel_2013-2019_logo.svg" width="50" height="50"/>
-  </a>
-</p>
-
----
-
-⚡ Frameworks y Librerías  
-<p align="center">
-  <a href="https://fastapi.tiangolo.com/" target="_blank">
-    <img src="https://cdn.worldvectorlogo.com/logos/fastapi.svg" width="50" height="50"/>
-  </a>
-  <a href="https://www.djangoproject.com/" target="_blank">
-    <img src="https://cdn.worldvectorlogo.com/logos/django.svg" width="50" height="50"/>
-  </a>
-</p>
-
----
-
-🛠️ Herramientas  
-<p align="center">
-  <a href="https://git-scm.com/" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="50" height="50"/>
-  </a>
-  <a href="https://www.notion.so/" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/4/45/Notion_app_logo.png" width="50" height="50"/>
-  </a>
-</p>
-
-
-
