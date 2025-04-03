@@ -1,12 +1,12 @@
-<a target="_blank" align="center">
-  <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaDZxZGt6bnZuOGxmcjd3YmlqOG42ZjRoNWw3c2Q3MWxnYnJqaXY4cSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif">
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=5000&color=851c73&center=true&vCenter=true&width=1000&lines=Hola%2C+soy+Iván+Leguizamón" alt="Typing SVG" />
 </a>
 
-<h1 align="center">Hola 👋, soy Iván Leguizamón</h1>
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=400&size=25&duration=3000&pause=5000&color=32A8BBFF&center=true&vCenter=true&width=1000&lines=Apasionado+por+el+análisis+de+datos+y+el+desarrollo+backend" alt="Typing SVG" />
+</a>
 
-<p align="center">
-  Estudiante de programación con interés en el análisis de datos y el desarrollo backend. Me apasiona resolver problemas mediante código y explorar nuevas tecnologías. Actualmente, estoy profundizando en Programación Orientada a Objetos.
-</p>
+<img align="right" top="500" height="270" width="400" alt="GIF" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
 ---
 
