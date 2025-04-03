@@ -55,3 +55,4 @@
   ![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
 
 </p>
+<img src="https://source.unsplash.com/1600x400/?technology,coding,programming" alt="Programming" width="100%">
