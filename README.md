@@ -1,5 +1,5 @@
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=5000&color=5C677D&center=true&vCenter=true&width=1000&lines=Hola%2C+soy+Iván+Leguizamón" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=5000&color=5C677D&center=true&vCenter=true&width=1000&lines=Hola%2C+soy+Ivan+Leguizamnn" alt="Typing SVG" />
 </a>
 
 <a href="https://git.io/typing-svg">
