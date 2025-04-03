@@ -9,7 +9,7 @@
 <img align="right" top="500" height="270" width="400" alt="GIF" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
 
-## 📞 Conectemos  
+## 🔗 Conectemos  
 
 <p align="center">
   <a href="https://www.linkedin.com/in/ivan-leguizamon29/" target="_blank">
