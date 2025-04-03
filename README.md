@@ -55,7 +55,10 @@ Soy estudiante de programación con interés en el análisis de datos y el desar
   </a>  
   <a href="https://lookerstudio.google.com/" target="_blank" rel="noreferrer">  
     <img src="https://www.gstatic.com/analytics-suite/header/suite/v2/ic_data_studio.svg" alt="looker studio" width="40" height="40"/>  
-  </a>  
+  </a> 
+  <a href="https://www.microsoft.com/en-us/microsoft-365/excel" target="_blank" rel="noreferrer">  
+    <img src="https://upload.wikimedia.org/wikipedia/commons/7/73/Microsoft_Excel_2013-2019_logo.svg" alt="excel" width="40" height="40"/>  
+  </a> 
 </p>
 
 <h3 align="left">Frameworks y Librerías:</h3>
